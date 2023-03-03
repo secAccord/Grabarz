@@ -1,0 +1,18 @@
+{
+  "BOT_TOKEN": "OTQwNjU3OTg5MDkyODAyNjAw.GHLTVe.t9NNsLWa1LhCiyf8fUEHcjnRJrwctbDMkITGPg",
+  "guild" : "688703586225750016",
+  "websocket":{
+    "ip":"ws:localhost:3000",
+    "auth":"R6aca67oZ8TuKPqH7FrKYrakta7a9x96"
+  },
+  "channels": {
+    "tips": "997190968577097808",
+    "ttvAlert": "888887594862125076",
+    "cmentarz": "688713885229776907",
+    "ogolny": "688713801624846341"
+  }
+
+
+
+
+}
