@@ -1,15 +1,19 @@
 {
   "name": "menel",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
-  "main": "dirname.js",
+  "description": "Tak.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "path": "^0.12.7"
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.9.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "socket.io-client": "^4.6.1"
   }
 }

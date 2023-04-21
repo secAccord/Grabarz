@@ -1,0 +1,12 @@
+-TTV_FOLLOW
+total:total,rawData
+last:["from_name"],
+-TTV_BIO
+name:rawData['display_name'],
+description:rawData.description,
+img:rawData["profile_image_url"]
+-TTV_STREAM
+name:rawData["user_name"],
+category:rawData["game_name"],
+title:rawData["title"],
+viewer:rawData["viewer_count"]
